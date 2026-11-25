@@ -2,10 +2,6 @@
 
 A small web app for hospital staff to add, review, filter, edit, discharge, and delete admitted patients. The React client and the Python API are served from one URL, so the live deployment is a single service.
 
-**Live link:** `TODO: replace with the deployed URL before submission`
-
-**GitHub repo:** `TODO: replace with the public repository URL before submission`
-
 ## Tech stack
 
 | Layer | Choice |
