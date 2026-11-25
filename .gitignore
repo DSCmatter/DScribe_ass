@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+backend/data/
+frontend/node_modules/
+.DS_Store
+
+#stuff
+DScribe_Round1_Task_FINAL.md
+DScribe_Round1_Task_FINAL.pdf
